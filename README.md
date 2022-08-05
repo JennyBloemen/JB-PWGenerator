@@ -35,5 +35,6 @@ THEN the password is either displayed in an alert or written to the page
 ```
 ## url to webpage: 
 ## Mock-Up: 
+![Screenshot (17)](https://user-images.githubusercontent.com/108432711/183003805-092dae00-3be7-4fa2-873f-7866c62b1c4f.png)
 
 
