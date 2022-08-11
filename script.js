@@ -33,7 +33,7 @@ function getPasswordOptions() {
   usealphaLower = confirm('Click OK to include lowercase characters.');
   usealphaUpper = confirm('Click OK to include uppercase characters.');
   
-  // Adds user choices to an array
+  // Adds user choices to an array randomly and ensures one password type is selected from each category chosed by the user. 
   if(usenumbers){
     options = options.concat(numbers)
     passwordselect.push(numbers[Math.floor(Math.random()*numbers.length)])
